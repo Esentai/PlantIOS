@@ -1,0 +1,25 @@
+{
+  "expo": {
+    "sdkVersion": "27.0.0",
+    "version": "1.0.0",
+    "name": "Bagban",
+    "slug": "bagban",
+    "icon": "./Images/appIconNew.png",
+    "orientation": "portrait",
+    "splash": {
+      "backgroundColor": "#28D190",
+      "image": "./Images/FrameMain.png",
+      "resizeMode": "cover"
+    },
+    "android": {
+      "package": "com.nazerketurtayevaesentai.Bagban",
+      "permissions": []
+    },
+    "ios": {
+      "bundleIdentifier": "com.nazerketurtayevaesentai.Bagban"
+    },
+    "packagerOpts": {
+      "nonPersistent": "--nonPersistent"
+    }
+  }
+}
